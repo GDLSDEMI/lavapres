@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../styles/style.css">
+  <title>Terminos y Condiciones Lavapres</title>
+  <style>
+    .text-white{
+      color:white;
+    }
+    .bg-degradado{
+            background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
+            background: linear-gradient(to bottom, #8ED7DF, #313F99);
+            color: white;
+            padding: 0px 20px 0px 20px;
+            height: 50px;
+            border: none;
+            border-radius: 25px; 
+        }  
+  </style>
+</head>
+<body>
+    <div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <a class="navbar-brand mx-auto" href="#">
+          <img src="../assets/logo-bco.png" height="24" alt="">
+      </a>
+  </nav>
+  <p>
+  </p>
+<!--Container left align close-->
+<button type="button" class="close" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <p></p>
+      
+<!--End Container left align close-->
+<p>
+    </p>
+<!--Container terminos center align-->
+  <div class="container text-primary text-center py-3">
+    <section class="row justify-content-center mt-n3">
+      <h1>TERMINOS Y CONDICIONES</h1>
+  </div>
+
+  <div class="container text-primary pr-5 pl-5 px-5">
+   <p>
+       PARA LA PRESTACIÓN DEL SERVICIO POR PAQUETE DE PRENDAS, REGIRÁN LAS SIGUIENTES CLAUSULAS:
+    </p>
+<p>
+1ª.- El Consumidor deberá: Pagar en efectivo al finalizar el servicio, a elección del consumidor, en moneda nacional al prestador el precio de contado consignado.
+ </p>
+<p>
+2ª.- El prestador no es responsable de: a) Objetos o valores olvidados en las prendas; b) Los daños que pudiera sufrir la prenda en caso de que ésta no cuente con instrucciones de lavado o sean erróneas; c) El deterioro de rellenos, entretelas y partes ocultas de la prenda; d)  No está obligado a eliminar las manchas que por su naturaleza sean insolubles.  
+ </p>
+<p>
+3ª.- El proveedor se obliga a: a) Informar al consumidor el monto total a pagar por la operación del servicio, incluyendo el precio de los servicios adicionales, así como las restricciones que, en su caso, son aplicables en la prestación del servicio objeto de este contrato b) Seguir las instrucciones de lavado y/o contenidas en las etiquetas en idioma español; c) Indemnizar en caso de deterioro total o pérdida.
+ </p>
+<p>
+4ª El proveedor se obliga a: a) Entregar al consumidor sus prendas en el mismo lugar en donde fueron colectadas para realizar el servicio. b) La entrega de las prendas será en un máximo de 3 días a partir de la fecha de solicitud de servicio. c) El Consumidor no podrá indicar un domicilio diferente al de la recolección para que se le haga la entrega. d) En caso de no encontrarse la fecha y hora de entrega del pedido, el consumidor deberá contactar al proveedor en el contacto del Whatsapp para confirmar la nueva fecha y se le cobrará un recargo de $20.00 PMX por día, a partir de la fecha confirmada de entrega.
+ </p>
+ </section>
+    </div>
+        <!--End Container terminos center align-->
+    <!--Container ¿Tienes Dudas?-->
+    <br/>           
+    <section class="row justify-content-center mt-n3">
+        <p class="text-mantle small">¿Tienes Dudas? Contactanos por Whatsapp
+          <br/>
+            </p>
+                </section>  
+            <!--End ¿Tienes Dudas?-->
+    <!--Container telefono-->
+        <br/>
+        <section class="row justify-content-right center mt-n3">
+          <img src="../assets/Whatss.png" alt="icono lavapres" width="30px">
+            </section>
+              <section class="row justify-content-center mt-n3"> 
+                <p class="text-mantle small">3318039482 </p>
+                  </section>
+                   <!--End telefono-->
+    <br/>
+    <br/>
+    <br/>
+    <p></p>
+  </div>  
+
+  
+</div>
+</body>
+</html>
